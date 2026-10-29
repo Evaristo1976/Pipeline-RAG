@@ -1,0 +1,11 @@
+{
+  "mode": "demo",
+  "llm_called": false,
+  "model": null,
+  "rows": 8,
+  "chunks": 8,
+  "query": "retrieval augmented generation RAG fisheries aquaculture briefing policy Timor-Leste small-scale fisheries governance evidence citations evaluation",
+  "k": 4,
+  "corpus_sha256": "6c2cfcb0e6fa7c7550e94d417f0b8220107bb699905d60984bc26fae863edeef",
+  "warning": "Notes are curated secondary summaries. Provenance validation is not entailment validation."
+}
