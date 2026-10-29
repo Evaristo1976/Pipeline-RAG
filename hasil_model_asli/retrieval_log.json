@@ -1,0 +1,263 @@
+[
+  {
+    "paper_id": "R1",
+    "contexts": [
+      {
+        "chunk_id": "R1:1",
+        "paper_id": "R1",
+        "text": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation. Eksperimen mencakup knowledge-intensive NLP dan open-domain question answering. Indeks eksternal berasal dari Wikipedia; hasil bukan pengujian briefing perikanan.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract",
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html",
+        "sha256": "b727f07807d49a35279ce40d28b27644b90599127487686b6ee5ea5a26842581",
+        "score": 0.863046
+      }
+    ],
+    "sentences": {
+      "R1:1:S1": {
+        "text": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation.",
+        "chunk_id": "R1:1",
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html"
+      },
+      "R1:1:S2": {
+        "text": "Eksperimen mencakup knowledge-intensive NLP dan open-domain question answering.",
+        "chunk_id": "R1:1",
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html"
+      },
+      "R1:1:S3": {
+        "text": "Indeks eksternal berasal dari Wikipedia; hasil bukan pengujian briefing perikanan.",
+        "chunk_id": "R1:1",
+        "url": "https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html"
+      }
+    }
+  },
+  {
+    "paper_id": "R2",
+    "contexts": [
+      {
+        "chunk_id": "R2:1",
+        "paper_id": "R2",
+        "text": "ALCE mengevaluasi end-to-end retrieval dan generation dengan citations. Metrik mencakup fluency, correctness, dan citation quality. Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract",
+        "url": "https://aclanthology.org/2023.emnlp-main.398/",
+        "sha256": "8037f5575801003ac1aeb97ea1347ebb30dfd97a02fa6479b03d5f322b456b3d",
+        "score": 0.863046
+      }
+    ],
+    "sentences": {
+      "R2:1:S1": {
+        "text": "ALCE mengevaluasi end-to-end retrieval dan generation dengan citations.",
+        "chunk_id": "R2:1",
+        "url": "https://aclanthology.org/2023.emnlp-main.398/"
+      },
+      "R2:1:S2": {
+        "text": "Metrik mencakup fluency, correctness, dan citation quality.",
+        "chunk_id": "R2:1",
+        "url": "https://aclanthology.org/2023.emnlp-main.398/"
+      },
+      "R2:1:S3": {
+        "text": "Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber.",
+        "chunk_id": "R2:1",
+        "url": "https://aclanthology.org/2023.emnlp-main.398/"
+      }
+    }
+  },
+  {
+    "paper_id": "R3",
+    "contexts": [
+      {
+        "chunk_id": "R3:1",
+        "paper_id": "R3",
+        "text": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation. Dimensi evaluasi mencakup konteks yang relevan dan terfokus, penggunaan bukti secara faithful, serta kualitas keluaran. Kerangka ini mendukung iterasi evaluasi RAG.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract",
+        "url": "https://aclanthology.org/2024.eacl-demo.16/",
+        "sha256": "833e26dbac3557bd642fa34480c63f4ef9661b6fef335a799b2ee93935897870",
+        "score": 1.43841
+      }
+    ],
+    "sentences": {
+      "R3:1:S1": {
+        "text": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation.",
+        "chunk_id": "R3:1",
+        "url": "https://aclanthology.org/2024.eacl-demo.16/"
+      },
+      "R3:1:S2": {
+        "text": "Dimensi evaluasi mencakup konteks yang relevan dan terfokus, penggunaan bukti secara faithful, serta kualitas keluaran.",
+        "chunk_id": "R3:1",
+        "url": "https://aclanthology.org/2024.eacl-demo.16/"
+      },
+      "R3:1:S3": {
+        "text": "Kerangka ini mendukung iterasi evaluasi RAG.",
+        "chunk_id": "R3:1",
+        "url": "https://aclanthology.org/2024.eacl-demo.16/"
+      }
+    }
+  },
+  {
+    "paper_id": "R4",
+    "contexts": [
+      {
+        "chunk_id": "R4:1",
+        "paper_id": "R4",
+        "text": "Sistem autonomous aquaculture menggabungkan RAG-LLM, DQN, IoT, dan majority voting. Variabel operasional mencakup pemberian pakan, penyakit, pertumbuhan, serta kualitas air. Hasil berfokus pada otomasi budidaya, bukan briefing menteri.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract",
+        "url": "https://www.nature.com/articles/s41598-025-05892-3",
+        "sha256": "752d76f16294438136fa1727e11a4d6eb20711a7732c2f5e9811d750463e5a3e",
+        "score": 0.863046
+      }
+    ],
+    "sentences": {
+      "R4:1:S1": {
+        "text": "Sistem autonomous aquaculture menggabungkan RAG-LLM, DQN, IoT, dan majority voting.",
+        "chunk_id": "R4:1",
+        "url": "https://www.nature.com/articles/s41598-025-05892-3"
+      },
+      "R4:1:S2": {
+        "text": "Variabel operasional mencakup pemberian pakan, penyakit, pertumbuhan, serta kualitas air.",
+        "chunk_id": "R4:1",
+        "url": "https://www.nature.com/articles/s41598-025-05892-3"
+      },
+      "R4:1:S3": {
+        "text": "Hasil berfokus pada otomasi budidaya, bukan briefing menteri.",
+        "chunk_id": "R4:1",
+        "url": "https://www.nature.com/articles/s41598-025-05892-3"
+      }
+    }
+  },
+  {
+    "paper_id": "R5",
+    "contexts": [
+      {
+        "chunk_id": "R5:1",
+        "paper_id": "R5",
+        "text": "AquaGPT menggabungkan image-based fish disease classification dan retrieval-supported conversational guidance. Mistral-7B digunakan untuk asisten berbasis sumber akuakultur. Stacking CNN memperoleh akurasi 97,43 persen dalam kondisi dataset terkontrol. Artikel menyebut perlunya field trials dan validasi dataset lain.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract dan Highlights",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087",
+        "sha256": "bcb4038280b18368de75ce00f659727683a7071ab87c632b8e4073367703da73",
+        "score": 0.287682
+      }
+    ],
+    "sentences": {
+      "R5:1:S1": {
+        "text": "AquaGPT menggabungkan image-based fish disease classification dan retrieval-supported conversational guidance.",
+        "chunk_id": "R5:1",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087"
+      },
+      "R5:1:S2": {
+        "text": "Mistral-7B digunakan untuk asisten berbasis sumber akuakultur.",
+        "chunk_id": "R5:1",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087"
+      },
+      "R5:1:S3": {
+        "text": "Stacking CNN memperoleh akurasi 97,43 persen dalam kondisi dataset terkontrol.",
+        "chunk_id": "R5:1",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087"
+      },
+      "R5:1:S4": {
+        "text": "Artikel menyebut perlunya field trials dan validasi dataset lain.",
+        "chunk_id": "R5:1",
+        "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087"
+      }
+    }
+  },
+  {
+    "paper_id": "R6",
+    "contexts": [
+      {
+        "chunk_id": "R6:1",
+        "paper_id": "R6",
+        "text": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space. Evaluasi mencakup species identification, biomass estimation, dan hallucination mitigation. Bukti ini berkaitan dengan fisheries intelligence, bukan validasi briefing pemerintah Timor-Leste.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract dan bagian 1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1801835/full",
+        "sha256": "20789d2a380f68727ed0c84b5d272af0403aaf1ccfdd85a66145d2db471f5248",
+        "score": 1.43841
+      }
+    ],
+    "sentences": {
+      "R6:1:S1": {
+        "text": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space.",
+        "chunk_id": "R6:1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1801835/full"
+      },
+      "R6:1:S2": {
+        "text": "Evaluasi mencakup species identification, biomass estimation, dan hallucination mitigation.",
+        "chunk_id": "R6:1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1801835/full"
+      },
+      "R6:1:S3": {
+        "text": "Bukti ini berkaitan dengan fisheries intelligence, bukan validasi briefing pemerintah Timor-Leste.",
+        "chunk_id": "R6:1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1801835/full"
+      }
+    }
+  },
+  {
+    "paper_id": "D1",
+    "contexts": [
+      {
+        "chunk_id": "D1:1",
+        "paper_id": "D1",
+        "text": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries. Sistem dipiloting di Timor-Leste dan menggabungkan catch, effort, serta vessel tracking. Dashboard mendukung filtering spasial dan temporal serta interpretasi data kontekstual.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760",
+        "sha256": "ea25fe9683d42c607e2597e02bfce07aacfa181a5adb8e8b7fe9c512358403e8",
+        "score": 1.43841
+      }
+    ],
+    "sentences": {
+      "D1:1:S1": {
+        "text": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries.",
+        "chunk_id": "D1:1",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760"
+      },
+      "D1:1:S2": {
+        "text": "Sistem dipiloting di Timor-Leste dan menggabungkan catch, effort, serta vessel tracking.",
+        "chunk_id": "D1:1",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760"
+      },
+      "D1:1:S3": {
+        "text": "Dashboard mendukung filtering spasial dan temporal serta interpretasi data kontekstual.",
+        "chunk_id": "D1:1",
+        "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760"
+      }
+    }
+  },
+  {
+    "paper_id": "D2",
+    "contexts": [
+      {
+        "chunk_id": "D2:1",
+        "paper_id": "D2",
+        "text": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus. Tara bandu berperan dalam pengaturan lokal. Penulis menekankan hubungan lembaga lokal yang sah dengan hierarchical governance untuk menghadapi pengaruh eksternal.",
+        "source_kind": "curated_secondary_note",
+        "locator": "Abstract dan studi kasus Biacou serta Adara",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00392/full",
+        "sha256": "a102870068b3bcd612af9d12c8b2a03328ca27a3fb3eba122ab507155b68dc9a",
+        "score": 0.986339
+      }
+    ],
+    "sentences": {
+      "D2:1:S1": {
+        "text": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus.",
+        "chunk_id": "D2:1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00392/full"
+      },
+      "D2:1:S2": {
+        "text": "Tara bandu berperan dalam pengaturan lokal.",
+        "chunk_id": "D2:1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00392/full"
+      },
+      "D2:1:S3": {
+        "text": "Penulis menekankan hubungan lembaga lokal yang sah dengan hierarchical governance untuk menghadapi pengaruh eksternal.",
+        "chunk_id": "D2:1",
+        "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00392/full"
+      }
+    }
+  }
+]

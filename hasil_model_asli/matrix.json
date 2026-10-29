@@ -1,0 +1,226 @@
+[
+  {
+    "paper_id": "R1",
+    "method": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation.",
+    "findings": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation.",
+    "reported_limitations": "Indeks eksternal berasal dari Wikipedia; hasil bukan pengujian briefing perikanan.",
+    "inferred_gap": "Interpretasi tentang dampak RAG pada briefing kebijakan perikanan skala kecil Timor-Leste.",
+    "proposed_contribution": "Usulan penelitian lanjutan untuk menguji efektivitas RAG dalam konteks briefing kebijakan perikanan skala kecil Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "R1:1:S1",
+        "chunk_id": "R1:1",
+        "supporting_text": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "R1:1:S1",
+        "chunk_id": "R1:1",
+        "supporting_text": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation."
+      },
+      {
+        "field": "reported_limitations",
+        "sentence_id": "R1:1:S3",
+        "chunk_id": "R1:1",
+        "supporting_text": "Indeks eksternal berasal dari Wikipedia; hasil bukan pengujian briefing perikanan."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html"
+  },
+  {
+    "paper_id": "R2",
+    "method": "ALCE mengevaluasi end-to-end retrieval dan generation dengan citations.",
+    "findings": "Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber.",
+    "reported_limitations": "Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber.",
+    "inferred_gap": "Interpretasi tentang dampak praktis dari masalah dukungan sitasi dan sintesis banyak sumber pada pembuatan kebijakan perikanan skala kecil di Timor-Leste.",
+    "proposed_contribution": "Usulan penelitian lanjutan untuk mengidentifikasi bagaimana masalah ini dapat mempengaruhi pengambilan keputusan dalam konteks pemerintahan lokal di Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "R2:1:S1",
+        "chunk_id": "R2:1",
+        "supporting_text": "ALCE mengevaluasi end-to-end retrieval dan generation dengan citations."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "R2:1:S3",
+        "chunk_id": "R2:1",
+        "supporting_text": "Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber."
+      },
+      {
+        "field": "reported_limitations",
+        "sentence_id": "R2:1:S3",
+        "chunk_id": "R2:1",
+        "supporting_text": "Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "Enabling Large Language Models to Generate Text with Citations",
+    "url": "https://aclanthology.org/2023.emnlp-main.398/"
+  },
+  {
+    "paper_id": "R3",
+    "method": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation.",
+    "findings": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation.",
+    "reported_limitations": "Tidak dilaporkan dalam konteks yang tersedia.",
+    "inferred_gap": "Interpretasi tentang dampak teknologi RAGAs pada sistem perikanan skala kecil di Timor-Leste.",
+    "proposed_contribution": "Usulan penelitian untuk menguji efektivitas RAGAs dalam meningkatkan kualitas informasi yang diberikan kepada pemangku kebijakan perikanan skala kecil di Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "R3:1:S1",
+        "chunk_id": "R3:1",
+        "supporting_text": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "R3:1:S1",
+        "chunk_id": "R3:1",
+        "supporting_text": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "RAGAs: Automated Evaluation of Retrieval Augmented Generation",
+    "url": "https://aclanthology.org/2024.eacl-demo.16/"
+  },
+  {
+    "paper_id": "R4",
+    "method": "Sistem autonomous aquaculture menggabungkan RAG-LLM, DQN, IoT, dan majority voting.",
+    "findings": "Hasil berfokus pada otomasi budidaya, bukan briefing menteri.",
+    "reported_limitations": "Tidak dilaporkan dalam konteks yang tersedia.",
+    "inferred_gap": "Interpretasi tentang dampak teknologi yang digunakan dalam sistem autonomous aquaculture terhadap pengelolaan perikanan skala kecil di Timor-Leste.",
+    "proposed_contribution": "Usulan penelitian lebih lanjut untuk memahami bagaimana teknologi ini dapat diterapkan secara efektif dalam situasi budidaya perikanan skala kecil di Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "R4:1:S1",
+        "chunk_id": "R4:1",
+        "supporting_text": "Sistem autonomous aquaculture menggabungkan RAG-LLM, DQN, IoT, dan majority voting."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "R4:1:S3",
+        "chunk_id": "R4:1",
+        "supporting_text": "Hasil berfokus pada otomasi budidaya, bukan briefing menteri."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "An integrating RAG-LLM and deep Q-network framework for intelligent fish control systems",
+    "url": "https://www.nature.com/articles/s41598-025-05892-3"
+  },
+  {
+    "paper_id": "R5",
+    "method": "Artikel menyebut perlunya field trials dan validasi dataset lain.",
+    "findings": "Artikel menyebut perlunya field trials dan validasi dataset lain.",
+    "reported_limitations": "Artikel menyebut perlunya field trials dan validasi dataset lain.",
+    "inferred_gap": "Kesulitan dalam mengetahui kebutuhan briefing kebijakan yang spesifik untuk skala kecil perikanan di Timor-Leste.",
+    "proposed_contribution": "Perlu dilakukan penelitian lebih lanjut untuk mengidentifikasi dan memahami kebutuhan briefing kebijakan yang sesuai dengan skala kecil perikanan di Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "R5:1:S4",
+        "chunk_id": "R5:1",
+        "supporting_text": "Artikel menyebut perlunya field trials dan validasi dataset lain."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "R5:1:S4",
+        "chunk_id": "R5:1",
+        "supporting_text": "Artikel menyebut perlunya field trials dan validasi dataset lain."
+      },
+      {
+        "field": "reported_limitations",
+        "sentence_id": "R5:1:S4",
+        "chunk_id": "R5:1",
+        "supporting_text": "Artikel menyebut perlunya field trials dan validasi dataset lain."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "AI-driven aquaculture management system with AquaGPT for smart aquaculture",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087"
+  },
+  {
+    "paper_id": "R6",
+    "method": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space.",
+    "findings": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space.",
+    "reported_limitations": "Bukti ini berkaitan dengan fisheries intelligence, bukan validasi briefing pemerintah Timor-Leste.",
+    "inferred_gap": "Interpretasi tentang dampak teknologi FMRAG terhadap kebijakan perikanan skala kecil Timor-Leste.",
+    "proposed_contribution": "Usulan penelitian mendalam untuk memahami bagaimana teknologi FMRAG dapat membantu meningkatkan kebijakan perikanan skala kecil di Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "R6:1:S1",
+        "chunk_id": "R6:1",
+        "supporting_text": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "R6:1:S1",
+        "chunk_id": "R6:1",
+        "supporting_text": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space."
+      },
+      {
+        "field": "reported_limitations",
+        "sentence_id": "R6:1:S3",
+        "chunk_id": "R6:1",
+        "supporting_text": "Bukti ini berkaitan dengan fisheries intelligence, bukan validasi briefing pemerintah Timor-Leste."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "FMRAG: retrieval-augmented multimodal large language models for fisheries intelligence",
+    "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1801835/full"
+  },
+  {
+    "paper_id": "D1",
+    "method": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries.",
+    "findings": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries.",
+    "reported_limitations": "Tidak dilaporkan dalam konteks yang tersedia.",
+    "inferred_gap": "Interpretasi tentang dampak teknologi PeskAAS terhadap pengelolaan sumber daya perikanan skala kecil di Timor-Leste.",
+    "proposed_contribution": "Usulan penelitian lebih lanjut untuk memahami bagaimana PeskAAS dapat meningkatkan efisiensi dan efektivitas dalam pengelolaan sumber daya perikanan skala kecil.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "D1:1:S1",
+        "chunk_id": "D1:1",
+        "supporting_text": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "D1:1:S1",
+        "chunk_id": "D1:1",
+        "supporting_text": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "PeskAAS: A near-real-time, open-source monitoring and analytics system for small-scale fisheries",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760"
+  },
+  {
+    "paper_id": "D2",
+    "method": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus.",
+    "findings": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus.",
+    "reported_limitations": "Tidak dilaporkan dalam konteks yang tersedia.",
+    "inferred_gap": "Interpretasi tentang dampak dari penggunaan interactive governance framework dalam sistem pengaturan lokal di Timor-Leste.",
+    "proposed_contribution": "Usulan untuk melakukan penelitian lebih lanjut tentang bagaimana fitur-fitur dari framework tersebut dapat diterapkan secara efektif dalam konteks Timor-Leste.",
+    "evidence": [
+      {
+        "field": "method",
+        "sentence_id": "D2:1:S1",
+        "chunk_id": "D2:1",
+        "supporting_text": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus."
+      },
+      {
+        "field": "findings",
+        "sentence_id": "D2:1:S1",
+        "chunk_id": "D2:1",
+        "supporting_text": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus."
+      }
+    ],
+    "status": "model_selected_evidence_and_inference_requires_review",
+    "title": "Evaluating the Fit of Co-management for Small-Scale Fisheries Governance in Timor-Leste",
+    "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00392/full"
+  }
+]

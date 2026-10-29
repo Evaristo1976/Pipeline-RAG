@@ -1,0 +1,42 @@
+[
+  {
+    "paper_id": "R1",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"R1\",\n  \"method_id\": \"R1:1:S1\",\n  \"finding_id\": \"R1:1:S1\",\n  \"limitation_id\": \"R1:1:S3\",\n  \"inferred_gap\": \"Interpretasi tentang dampak RAG pada briefing kebijakan perikanan skala kecil Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan penelitian lanjutan untuk menguji efektivitas RAG dalam konteks briefing kebijakan perikanan skala kecil Timor-Leste.\"\n}"
+  },
+  {
+    "paper_id": "R2",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"R2\",\n  \"method_id\": \"R2:1:S1\",\n  \"finding_id\": \"R2:1:S3\",\n  \"limitation_id\": \"R2:1:S3\",\n  \"inferred_gap\": \"Interpretasi tentang dampak praktis dari masalah dukungan sitasi dan sintesis banyak sumber pada pembuatan kebijakan perikanan skala kecil di Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan penelitian lanjutan untuk mengidentifikasi bagaimana masalah ini dapat mempengaruhi pengambilan keputusan dalam konteks pemerintahan lokal di Timor-Leste.\"\n}"
+  },
+  {
+    "paper_id": "R3",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"R3\",\n  \"method_id\": \"R3:1:S1\",\n  \"finding_id\": \"R3:1:S1\",\n  \"limitation_id\": null,\n  \"inferred_gap\": \"Interpretasi tentang dampak teknologi RAGAs pada sistem perikanan skala kecil di Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan penelitian untuk menguji efektivitas RAGAs dalam meningkatkan kualitas informasi yang diberikan kepada pemangku kebijakan perikanan skala kecil di Timor-Leste.\"\n}"
+  },
+  {
+    "paper_id": "R4",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"R4\",\n  \"method_id\": \"R4:1:S1\",\n  \"finding_id\": \"R4:1:S3\",\n  \"limitation_id\": null,\n  \"inferred_gap\": \"Interpretasi tentang dampak teknologi yang digunakan dalam sistem autonomous aquaculture terhadap pengelolaan perikanan skala kecil di Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan penelitian lebih lanjut untuk memahami bagaimana teknologi ini dapat diterapkan secara efektif dalam situasi budidaya perikanan skala kecil di Timor-Leste.\"\n}"
+  },
+  {
+    "paper_id": "R5",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"R5\",\n  \"method_id\": \"R5:1:S4\",\n  \"finding_id\": \"R5:1:S4\",\n  \"limitation_id\": \"R5:1:S4\",\n  \"inferred_gap\": \"Kesulitan dalam mengetahui kebutuhan briefing kebijakan yang spesifik untuk skala kecil perikanan di Timor-Leste.\",\n  \"proposed_contribution\": \"Perlu dilakukan penelitian lebih lanjut untuk mengidentifikasi dan memahami kebutuhan briefing kebijakan yang sesuai dengan skala kecil perikanan di Timor-Leste.\"\n}"
+  },
+  {
+    "paper_id": "R6",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"R6\",\n  \"method_id\": \"R6:1:S1\",\n  \"finding_id\": \"R6:1:S1\",\n  \"limitation_id\": \"R6:1:S3\",\n  \"inferred_gap\": \"Interpretasi tentang dampak teknologi FMRAG terhadap kebijakan perikanan skala kecil Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan penelitian mendalam untuk memahami bagaimana teknologi FMRAG dapat membantu meningkatkan kebijakan perikanan skala kecil di Timor-Leste.\"\n}"
+  },
+  {
+    "paper_id": "D1",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"D1\",\n  \"method_id\": \"D1:1:S1\",\n  \"finding_id\": \"D1:1:S1\",\n  \"limitation_id\": null,\n  \"inferred_gap\": \"Interpretasi tentang dampak teknologi PeskAAS terhadap pengelolaan sumber daya perikanan skala kecil di Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan penelitian lebih lanjut untuk memahami bagaimana PeskAAS dapat meningkatkan efisiensi dan efektivitas dalam pengelolaan sumber daya perikanan skala kecil.\"\n}"
+  },
+  {
+    "paper_id": "D2",
+    "attempt": 1,
+    "text": "{\n  \"paper_id\": \"D2\",\n  \"method_id\": \"D2:1:S1\",\n  \"finding_id\": \"D2:1:S1\",\n  \"limitation_id\": null,\n  \"inferred_gap\": \"Interpretasi tentang dampak dari penggunaan interactive governance framework dalam sistem pengaturan lokal di Timor-Leste.\",\n  \"proposed_contribution\": \"Usulan untuk melakukan penelitian lebih lanjut tentang bagaimana fitur-fitur dari framework tersebut dapat diterapkan secara efektif dalam konteks Timor-Leste.\"\n}"
+  }
+]

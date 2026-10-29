@@ -1,0 +1,98 @@
+[
+  {
+    "paper_id": "R1",
+    "title": "Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks",
+    "method": "Retriever neural dan indeks dense Wikipedia dipadukan dengan generator seq2seq.",
+    "findings": "Model menghasilkan teks lebih faktual pada tugas yang diuji dibanding baseline parametrik.",
+    "inferred_gap": "Belum memvalidasi briefing kebijakan perikanan Timor-Leste.",
+    "proposed_contribution": "Uji retrieval dokumen lokal dan keterlacakan setiap klaim briefing.",
+    "url": "https://proceedings.neurips.cc/paper/2020/hash/6b493230205f780e1bc26945df7481e5-Abstract.html",
+    "evidence_note": "RAG menggabungkan memori parametrik dan nonparametrik untuk generation. Eksperimen mencakup knowledge-intensive NLP dan open-domain question answering. Indeks eksternal berasal dari Wikipedia; hasil bukan pengujian briefing perikanan.",
+    "locator": "Abstract",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "R2",
+    "title": "Enabling Large Language Models to Generate Text with Citations",
+    "method": "Benchmark ALCE untuk retrieval dan jawaban bersitasi.",
+    "findings": "Evaluasi memisahkan kelancaran, kebenaran, dan kualitas sitasi; dukungan sitasi masih belum lengkap.",
+    "inferred_gap": "Kualitas sitasi briefing kebijakan sektoral belum diuji dalam korpus ini.",
+    "proposed_contribution": "Periksa apakah sumber benar-benar mendukung klaim dan apakah semua klaim memiliki sitasi.",
+    "url": "https://aclanthology.org/2023.emnlp-main.398/",
+    "evidence_note": "ALCE mengevaluasi end-to-end retrieval dan generation dengan citations. Metrik mencakup fluency, correctness, dan citation quality. Sistem yang diuji masih memiliki kekurangan dalam dukungan sitasi dan sintesis banyak sumber.",
+    "locator": "Abstract",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "R3",
+    "title": "RAGAs: Automated Evaluation of Retrieval Augmented Generation",
+    "method": "Evaluasi otomatis tanpa anotasi jawaban acuan untuk sejumlah dimensi RAG.",
+    "findings": "Kerangka menilai relevansi konteks, penggunaan konteks secara faithful, dan kualitas generation.",
+    "inferred_gap": "Skor otomatis belum menggantikan validasi pakar perikanan dan kebijakan.",
+    "proposed_contribution": "Padukan penilaian otomatis dengan audit faktual dan kegunaan oleh pengguna.",
+    "url": "https://aclanthology.org/2024.eacl-demo.16/",
+    "evidence_note": "RAGAs menawarkan reference-free evaluation untuk pipeline retrieval augmented generation. Dimensi evaluasi mencakup konteks yang relevan dan terfokus, penggunaan bukti secara faithful, serta kualitas keluaran. Kerangka ini mendukung iterasi evaluasi RAG.",
+    "locator": "Abstract",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "R4",
+    "title": "An integrating RAG-LLM and deep Q-network framework for intelligent fish control systems",
+    "method": "RAG-LLM dan deep Q-network dipadukan dengan IoT dan voting untuk kontrol budidaya.",
+    "findings": "Artikel melaporkan perbaikan pertumbuhan dan stabilisasi kebijakan otomasi.",
+    "inferred_gap": "Kontrol budidaya berbeda dari sintesis dokumen untuk kebijakan perikanan tangkap.",
+    "proposed_contribution": "Alihkan retrieval pengetahuan ke briefing berbasis sumber dan pengawasan manusia.",
+    "url": "https://www.nature.com/articles/s41598-025-05892-3",
+    "evidence_note": "Sistem autonomous aquaculture menggabungkan RAG-LLM, DQN, IoT, dan majority voting. Variabel operasional mencakup pemberian pakan, penyakit, pertumbuhan, serta kualitas air. Hasil berfokus pada otomasi budidaya, bukan briefing menteri.",
+    "locator": "Abstract",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "R5",
+    "title": "AI-driven aquaculture management system with AquaGPT for smart aquaculture",
+    "method": "Mistral-7B dengan RAG untuk konsultasi; ensemble CNN untuk klasifikasi penyakit.",
+    "findings": "Stacking klasifikasi penyakit mencapai 97,43 persen pada dataset terkontrol; ini bukan skor RAG.",
+    "inferred_gap": "Uji lapangan diperlukan; briefing perikanan tangkap Timor-Leste tidak ditunjukkan pada materi yang ditelaah.",
+    "proposed_contribution": "Nilai kualitas jawaban, sitasi, dan waktu penyusunan briefing secara terpisah.",
+    "url": "https://www.sciencedirect.com/science/article/pii/S0144860926000087",
+    "evidence_note": "AquaGPT menggabungkan image-based fish disease classification dan retrieval-supported conversational guidance. Mistral-7B digunakan untuk asisten berbasis sumber akuakultur. Stacking CNN memperoleh akurasi 97,43 persen dalam kondisi dataset terkontrol. Artikel menyebut perlunya field trials dan validasi dataset lain.",
+    "locator": "Abstract dan Highlights",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "R6",
+    "title": "FMRAG: retrieval-augmented multimodal large language models for fisheries intelligence",
+    "method": "Retrieval pasangan citra dan teks dalam embedding multimodal serta fine-tuning domain.",
+    "findings": "Artikel melaporkan peningkatan identifikasi spesies dan estimasi biomassa serta pengurangan halusinasi.",
+    "inferred_gap": "Evaluasi tugas visual belum membuktikan mutu briefing kebijakan berbasis dokumen lokal.",
+    "proposed_contribution": "Fokuskan eksperimen pada sintesis lintas dokumen, sitasi, dan ketepatan periode data.",
+    "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2026.1801835/full",
+    "evidence_note": "FMRAG melakukan multimodal retrieval atas fishery images dan textual records di shared vision-language embedding space. Evaluasi mencakup species identification, biomass estimation, dan hallucination mitigation. Bukti ini berkaitan dengan fisheries intelligence, bukan validasi briefing pemerintah Timor-Leste.",
+    "locator": "Abstract dan bagian 1",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "D1",
+    "title": "PeskAAS: A near-real-time, open-source monitoring and analytics system for small-scale fisheries",
+    "method": "Sistem open-source berbasis Shiny mengintegrasikan data tangkapan, upaya, dan pelacakan kapal.",
+    "findings": "Diuji di Timor-Leste untuk menyediakan analitik perikanan skala kecil.",
+    "inferred_gap": "Dashboard analitik bukan generator briefing berbasis retrieval dokumen.",
+    "proposed_contribution": "Gunakan laporan terverifikasi sebagai sumber dengan metadata lokasi dan periode.",
+    "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0234760",
+    "evidence_note": "PeskAAS adalah open-source monitoring dan analytics system untuk small-scale fisheries. Sistem dipiloting di Timor-Leste dan menggabungkan catch, effort, serta vessel tracking. Dashboard mendukung filtering spasial dan temporal serta interpretasi data kontekstual.",
+    "locator": "Abstract",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  },
+  {
+    "paper_id": "D2",
+    "title": "Evaluating the Fit of Co-management for Small-Scale Fisheries Governance in Timor-Leste",
+    "method": "Kerangka interactive governance dan dua studi kasus pengelolaan bersama.",
+    "findings": "Kelembagaan lokal perlu terhubung dengan tata kelola pada tingkat lebih tinggi.",
+    "inferred_gap": "Studi tata kelola tidak mengevaluasi asisten RAG dan kualitas briefing.",
+    "proposed_contribution": "Masukkan konteks tara bandu dan variasi komunitas dalam corpus briefing.",
+    "url": "https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2019.00392/full",
+    "evidence_note": "Studi co-management Timor-Leste memakai interactive governance framework dan dua studi kasus. Tara bandu berperan dalam pengaturan lokal. Penulis menekankan hubungan lembaga lokal yang sah dengan hierarchical governance untuk menghadapi pengaruh eksternal.",
+    "locator": "Abstract dan studi kasus Biacou serta Adara",
+    "status": "ai_assisted_editorial_correction_not_colab_model_output_requires_group_review"
+  }
+]

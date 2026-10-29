@@ -1,0 +1,8 @@
+Hasil pemeriksaan Colab versi 2
+Model Qwen2.5-3B-Instruct benar-benar dipanggil pada GPU Tesla T4.
+8/8 baris lolos schema dan ID bukti; errors.json kosong.
+Semua supporting_text pada baris cocok dengan chunk pada log retrieval dan kolom yang dirujuk.
+Kelulusan teknis bukan akurasi faktual 100 persen dan bukan evaluasi entailment.
+Pemeriksaan isi menemukan pengulangan metode/temuan, kesalahan kategori R5, dan inferensi gap yang masih umum. Analisis adalah sintesis editorial, bukan keluaran model Colab.
+Matriks koreksi editorial disediakan terpisah; jangan mengganti hasil mentah tanpa catatan.
+Notebook v2 telah dijalankan oleh pengguna. Notebook dan hasil perlu ditambahkan ke GitHub; file PDF saja dikumpulkan di Kulino sesuai arahan tugas.
